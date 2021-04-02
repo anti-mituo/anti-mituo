@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# 欢迎来到米拓metinfo建站程序联盟
 
-You can use the [editor on GitHub](https://github.com/anti-mituo/anti-mituo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+长沙米拓信息技术有限公司开发的米拓内容管理系统（metinfo），打着开源免费的旗号，推广其产品，但是却毫无服务精神，对自己的代理商和客户毫无技术支持，随意抬价；版权声明含混不清；对自家产品渠安全性把控不严，导致大量经过第三方修改的源码包流入市场，致使许多用户在不知情的情况下，使用了他们的产品，并被长沙米拓信息公司通过程序中的代码收集安装信息，进行敲诈勒索似的维权。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+他们通过和律师事务所合作的方式，以诉讼威胁用户进行和解，并诉求高于所谓“商业版”+“去版权授权”的和解费用，名曰其名免费赠送，在受害用户停止侵权行为也无法接受他们产品高昂到不合理的价格后，便提出要通过诉讼维权使用户产生金钱财务上的压力，其实质行为就是彻头彻尾的强买强卖。
 
-### Markdown
+我们有充分的证据证明，改公司长期打着免费的旗号，在其版权声明中混淆“商业版”和“去版权授权”等概念，并随意修改用户服务器上的文件和自己服务器上的原始存档，通过混淆视听的方式随意修改版权协议，给用户挖坑留陷阱、同时招聘大量法务人员。我们有理由相信这是一场蓄谋已久的针对米拓受害用户的袭击。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+目前该公司起诉了大量国内中小企业，让这些企业的生存环境举步维艰。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anti-mituo/anti-mituo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+这种讼棍似的开源项目，实为开源之耻。
